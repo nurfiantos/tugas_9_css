@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+div {
+    width: 700px;
+    height: 520px;
+    margin: 10px;
+    padding: 10px;
+    float: right;
+    text-align: right;
+    z-index: 2;
+    position: relative;
+    background-color: white;
+}
+p {
+    font-size: 12px;
+    font-weight: bold;
+}
+img {
+    z-index: 1;
+    position: absolute;
+}
